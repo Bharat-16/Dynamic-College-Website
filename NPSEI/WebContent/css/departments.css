@@ -1,0 +1,38 @@
+header #clg-logo-department{
+	margin:0;
+	float:right;
+	min-width:3em;
+	width:10%;
+}
+header #top-bar-department h1,h3{
+	margin:0; 
+	float:none;
+}
+header{
+	background:#0080ff;
+}
+.information{
+	display:inline-block;
+	width:100%;
+	background:#0ff;
+	font-family:sans-serif;
+	font-size: x-large;
+}
+.faculty{
+	background:#ff0;
+	float:none;
+	width:90%;
+	margin:5%;
+	padding:2%;
+}
+.faculty #hod{
+	margin-left:20%;
+	float:right;
+}
+.students{
+	padding:2%;
+	float:none;
+	background:#f0f;
+	width:90%;
+	margin:5%;
+}
